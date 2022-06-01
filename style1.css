@@ -1,0 +1,36 @@
+
+*{ }
+
+.title h2{
+	text-align: center;
+	color: red;
+	
+}
+.title1 h2{
+    text-align: center;
+	color: red;
+}
+#heading-secondary h2{
+	color:red;
+}
+
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: black;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
